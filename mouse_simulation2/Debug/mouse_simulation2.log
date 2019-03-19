@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\WDExpress\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (mouse_simulation2.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  mouse_simulator.cpp
+c:\users\hatanaka\source\repos\mouse_simulator\mouse_simulation2\mouse_simulator.cpp(105): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+  mouse_simulation2.vcxproj -> C:\Users\Hatanaka\source\repos\mouse_simulator\Debug\mouse_simulator.exe
